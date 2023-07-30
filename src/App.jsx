@@ -3,7 +3,7 @@ import { useEffect } from 'react'
 function App() {
 
   useEffect(() => {
-    window.location = 'spotify-controller://'
+    window.location = 'spotify-controller://getcode' + window.location.search
   }, [])
 
   return (
