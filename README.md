@@ -1,8 +1,5 @@
-# React + Vite
+# Spotify-Controller
+The Spotify desktop application does not support keybinds while the app is minimized. Spotify Controller is a desktop application that allows you to control the Spotify desktop application by using keybinds. It is built using React and electonjs and uses the Spotify API.   
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚠️ This repository contains a webpage that redirects to the Spotify Controller app  
+⚠️ Spotify Controller main app repository 👉 [[Github](https://github.com/vedantyadu/spotify-controller)]
